@@ -23,7 +23,7 @@ s|^(trust_hash[[:space:]]+=[[:space:]]+).*$|\1\"$TRUST_HASH\"|" $HOME/.okp4d/con
 peers="9afa29b9ee8b730353de871bd50d9fcc56eda73e@135.181.178.53:26656" \
 && sed -i.bak -e "s/^persistent_peers *=.*/persistent_peers = \"$peers\"/" $HOME/.okp4d/config/config.toml 
 
-okp4d tendermint unsafe-reset-all --home ~/.okp4 && sudo systemctl restart okp4d && \
+okp4d tendermint unsafe-reset-all --home ~/.okp4d && sudo systemctl restart okp4d && \
 journalctl -u okp4d -f --output cat
 ```
 
