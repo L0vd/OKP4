@@ -36,14 +36,14 @@ To get started, add your wallet address. After that, you will be able to see the
 
 ## Screenshots
 **Start**  
-![Screenshot](https://github.com/L0vd/screenshots/blob/main/ollo/start.png)  
+![Screenshot](https://github.com/L0vd/screenshots/blob/main/okp4/start.png)  
 **Token Info**  
-![Screenshot](https://github.com/L0vd/screenshots/blob/main/ollo/token_info.png?raw=true)  
+![Screenshot](https://github.com/L0vd/screenshots/blob/main/okp4/token_info.png?raw=true)  
 **Balance Mode**  
-![Screenshot](https://github.com/L0vd/screenshots/blob/main/ollo/balance.png?raw=true)  
+![Screenshot](https://github.com/L0vd/screenshots/blob/main/okp4/balance.png?raw=true)  
 **Validators Mode**  
-![Screenshot](https://github.com/L0vd/screenshots/blob/main/ollo/validators.png)  
+![Screenshot](https://github.com/L0vd/screenshots/blob/main/okp4/validators.png)  
 **Proposals Mode**  
-![Screenshot](https://github.com/L0vd/screenshots/blob/main/ollo/proposals.png?raw=true)  
+![Screenshot](https://github.com/L0vd/screenshots/blob/main/okp4/proposals.png?raw=true)  
 **Help**  
 ![Screenshot](https://github.com/L0vd/screenshots/blob/main/ollo/help.png?raw=true)
