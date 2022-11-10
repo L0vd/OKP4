@@ -12,7 +12,7 @@ http://explorers.l0vd.com/okp4-testnet
 https://github.com/L0vd/OKP4/tree/main/Monitoring
 
 ## State sync
-https://github.com/L0vd/OKP4/tree/main/State_Sync
+https://github.com/L0vd/OKP4/tree/main/State Sync
 
 ## Wallet bot
 https://github.com/L0vd/OKP4/tree/main/OKP4_Wallet_Bot
