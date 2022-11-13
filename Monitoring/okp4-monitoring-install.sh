@@ -78,7 +78,7 @@ echo ''
 cd $HOME
 mkdir okp4-monitoring
 cd okp4-monitoring
-wget https://raw.githubusercontent.com/L0vd/Ollo/main/Monitoring/monitor.sh >/dev/null 2>&1
+wget https://raw.githubusercontent.com/L0vd/OKP4/main/Monitoring/monitor.sh >/dev/null 2>&1
 
 COS_BIN=okp4d
 COS_BIN_NAME=$(which $COS_BIN)
@@ -176,7 +176,7 @@ else
 fi
 
 echo ''
-echo -e '\e[7mYour Ollo node monitoring is installed!\e[0m'
+echo -e '\e[7mYour OKP4 node monitoring is installed!\e[0m'
 echo ''
 echo -e "Your node info:"
 echo ''
