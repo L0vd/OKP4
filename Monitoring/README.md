@@ -58,7 +58,9 @@ mkdir okp4-monitoring
 cd okp4-monitoring
 wget https://raw.githubusercontent.com/L0vd/OKP4/main/Monitoring/monitor.sh
 wget https://raw.githubusercontent.com/L0vd/OKP4/main/Monitoring/telegraf.conf
-wget https://raw.githubusercontent.com/L0vd/OKP4/main/Monitoring/variables.sh
+```
+
+```
 nano variables.sh
 ```
 
